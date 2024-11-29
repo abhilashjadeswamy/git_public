@@ -1,7 +1,11 @@
 this is a new test file
 i am abhilash 
 this is my job
-1
-2
-3
-4
+<<<<<<< HEAD
+
+=======
+10
+100
+1000
+10000
+>>>>>>> 2c8b40019ad9f7df9ef1fa7239b6f347c5947be1
